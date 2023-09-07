@@ -24,3 +24,24 @@ The HTML and JS files are linked using the `<script>` tag in the `index.html` fi
 
 ```html
 <script src="game.js"></script>
+```
+
+This line imports the game.js file, making all the functions defined in it available in the index.html context.
+
+## 4. Running the Game
+If you'd like to play the game yourself, follow these steps: 
+- 1. Clone the GitHub repository to your local machine. You enter this in your CLI:
+```
+git clone https://github.com/prodlabadmin/rps_solution.git
+```
+
+- 2. Navigate to the cloned directory using this command in your CLI
+```
+cd rps_solution
+```
+
+- 3. Open the index.html file in your preferred web browser. The game will start immediately, and you'll be prompted to make your choices for each round.
+
+Enjoy the game! 
+
+We hope you have fun with this simple Rock, Paper, Scissors game. Feel free to extend or modify the code as you see fit!
